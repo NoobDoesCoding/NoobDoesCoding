@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoobDoesCoding aka [NoobZhere](https://github.com/NoobDoesCoding/NoobDoesCoding/README.md)
+- 👋 Hi, I’m @NoobDoesCoding aka [NoobZhere](https://github.com/NoobDoesCoding/NoobDoesCoding/blob/main/README.md)
 - 👀 I’m interested in coding... yeah
 - 📫 How to reach me? You can reach me at [this (definitely mine) discord server](https://noobzhere.tk/discord)
 <!---
