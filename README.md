@@ -4,4 +4,6 @@
 <!---
 NoobDoesCoding/NoobDoesCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
+## **hmm..**
+#### maybe you found me from my discord profile
